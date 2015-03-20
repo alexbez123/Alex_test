@@ -20,10 +20,10 @@ $("#pass").click(function() {
 });
 
 
-
+// some changes for Git test 
 </script>
 
-
+<?php  echo "test"; ?>
 </head>
 <body>
 	<header>
